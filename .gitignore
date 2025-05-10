@@ -1,0 +1,7 @@
+start_venv_before_running.txt
+t.py
+vector_store/
+__pycache__/
+*.pyc
+.env
+venv/
